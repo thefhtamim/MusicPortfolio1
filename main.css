@@ -1,0 +1,141 @@
+body{
+    ;
+}
+.header{
+    text-align: center;
+    
+    padding: auto;
+    background-color: none;
+    width: 1503px;
+    height: 667px;
+    background-image: url(https://images.unsplash.com/photo-1605020420620-20c943cc4669?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);
+}
+.header h1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.header p{
+    color: white;
+    font-size: 50px;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 50px;
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(104, 43, 43);   
+}
+.topnav a{ 
+    float: left;
+  display:block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px;
+}
+.topnav a:hover{
+    color: black;
+    background-color: #ddd;
+}
+>content{
+    padding: auto;
+}
+.content p{
+    font-family:sans-serif;
+    padding: auto;
+    font-size: 150px;
+    color: rgb(219, 53, 11);
+    height: 628px;
+    background-image: url(https://static.musiciansfriend.com/thehub/binaries/content/gallery/mf/buying-guides/acoustic-guitar-header-web.jpg) ;
+    text-align: center;
+}
+.content1{
+    text-align: center;
+    padding: auto;
+    background-color: none;
+}
+.content1 h2{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+.content1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content2{
+    text-align: center;
+    padding: 15px;
+    background-color: thistle;
+}
+.content2 p{
+    font-size: 45px;
+    font-weight: bold;
+    font-style: initial;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.content2 ol{
+    padding: auto;
+    text-align: center;
+}
+.content2 li{
+    padding: auto;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: inherit;
+}
+.content2 h2{
+    text-decoration: none;
+    color: cadetblue;
+}
+.content3{
+    text-align: center;
+    background-color: ivory;
+    
+}
+.content3 h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:palevioletred;
+}
+.leftcolumn {   
+    float: left;
+    width: 50%;
+    padding: auto;
+    background-color:wheat;
+  }
+.leftcolumn a{
+    text-decoration: none;
+    color: purple;
+}
+.rightcolumn{
+    float: right;
+    width: 50%;
+    padding: auto;
+    background-color:wheat;
+}
+.rightcolumn a{
+    text-decoration: none;
+    color: purple;
+}
+.footer{
+    text-align: end;
+    padding: 20px;
+}
+.footer a:hover{
+        
+        background-color: silver;
+}
+.copyright{
+    text-align: center;
+    background-color: grey;
+    padding: 50px;
+}
+.copyright h1{
+    color: white;
+}
+
+.copyright p{
+    color: white;
+    size: 12px;
+   
+}
